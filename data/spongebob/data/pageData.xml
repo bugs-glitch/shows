@@ -1,0 +1,38 @@
+ <?xml version="1.0" encoding="UTF-8" ?> 
+ <world>
+ 	<!--  FOREGROUND -->
+ 	<house title="*" text="*" image="/shows/data/spongebob/multimedia/spo/bb.swf" link="*" depth="foreground"></house>
+ 	
+ 	<house title="*" text="Grab your spatula, ketchup, and spork and protect the SECRET recipe!" image="/shows/data/spongebob/multimedia/spo/promo.swf" link="/games/nick_games/spongebob/sb_invasion.jhtml" depth="foreground"></house>
+ 	<house title="SPONGEBOB GAMES" text="" link="/games/gotw/play.jhtml" image="/shows/data/spongebob/multimedia/spo/billboard.swf" depth="foreground"></house>
+ 	<!-- <house title="*" text="Put the pedal to the metal in this 3D Nicktoons kart racer!" image="/shows/data/spongebob/multimedia/spo/promo.swf" link="/games/nick_games/nicktoons/nt_kart.jhtml" depth="foreground"></house> -->
+	<house title="*" text="*" image="/shows/data/spongebob/multimedia/spo/sb_horse.swf" link="*" depth="foreground"></house>
+	<!--  MIDGROUND -->
+ 	
+ 	<house title="PATRICK'S HOUSE" text="GAMES" image="/shows/data/spongebob/multimedia/spo/pat_house.swf" link="/shows/data/spongebob/multimedia/spo/games.swf" depth="midground"></house>
+ 	<house title="SQUIDWARD'S HOUSE" text="SHOW DESCRIPTION" image="/shows/data/spongebob/multimedia/spo/sq_house.swf" link="/shows/data/spongebob/multimedia/spo/description.swf" depth="midground"></house>
+ 	<!-- <house title="*" text="*" image="/shows/data/spongebob/multimedia/spo/movieTheater.swf" link="*" depth="midground"></house> -->
+ 	<house title="SPONGEBOB'S HOUSE" text="CHARACTERS" image="/shows/data/spongebob/multimedia/spo/sb_house.swf" link="/shows/data/spongebob/multimedia/spo/characters.swf" depth="midground"></house>
+ 	<house title="*" text="*" image="/shows/data/spongebob/multimedia/spo/boat.swf" link="*" depth="midground"></house>
+ 	<house title="*" text="*" image="/shows/data/spongebob/multimedia/spo/boat2.swf" link="*" depth="midground"></house>
+ 	<house title="THE KRUSTY KRAB" text="E-COLLECTIBLES" image="/shows/data/spongebob/multimedia/spo/kk.swf" link="/mynick/trading/" depth="midground"></house>
+ 	<house title="*" text="*" image="/shows/data/spongebob/multimedia/spo/garyPromo.swf" link="*" depth="midground"></house>
+ 	<!--  BACKGROUND -->
+ 	<house title="THE CHUM BUCKET" text="DOWNLOADS" image="/shows/data/spongebob/multimedia/spo/chum_bucket.swf" link="/shows/data/spongebob/multimedia/spo/downloads.swf" depth="background"></house>
+ </world>
+ <nav>
+	<button title="NICK MAGAZINE COMICS" text="Play games!" image="/shows/common/multimedia/icons/comics.swf" link="/shows/nick_mag/nicktoon_comics/index.jhtml"></button>
+	<button title="GAMES" text="Play games!" image="/shows/common/multimedia/icons/games.swf" link="/shows/data/spongebob/multimedia/spo/games.swf"></button>
+ 	<button title="E-COLLECTIBLES" text="Collect cards!" image="/shows/common/multimedia/icons/eCollectibles.swf" link="/mynick/trading/"></button>
+ 	<button title="BOARDS" text="Post on the Boards!" image="/shows/common/multimedia/icons/boards.swf" link="/mynick/messageboards/viewboard.jhtml?bID=57"></button>
+ 	<button title="TURBONICK" text="Watch El Tigre in TN!" image="/shows/common/multimedia/icons/turboNick.swf" link="/turbonick/index.jhtml?searchTerm=SpongeBob%20SquarePants"></button>
+ 	<button title="DOWNLOADS" text="Download El Tigre!" image="/shows/common/multimedia/icons/downloads.swf" link="/shows/data/spongebob/multimedia/spo/downloads.swf"></button>
+ 	<button title="CHARACTERS" text="Meet El Tigre!" image="/shows/common/multimedia/icons/characters.swf" link="/shows/data/spongebob/multimedia/spo/characters.swf"></button>
+ 	<button title="SHOW DESCRIPTION" text="Meet El Tigre!" image="/shows/common/multimedia/icons/description.swf" link="/shows/data/spongebob/multimedia/spo/description.swf"></button>
+ 	<button title="NICK PAGES" text="Meet El Tigre!" image="/shows/common/multimedia/icons/nickpages.swf" link="/mynick/nickPage/index.jhtml"></button>
+ 	<button title="NEWSFLASH" text="Meet El Tigre!" image="/shows/common/multimedia/icons/newsflash.swf" link="/mynick/newsflash/"></button>
+ 	<button title="MOVIE" text="Meet El Tigre!" image="/shows/common/multimedia/icons/movie.swf" link="/shows/movies/spongebob/index.jhtml"></button>
+ </nav>
+ <turboNick>
+ 	<videos link="/turbonick/index.jhtml?searchTerm=SpongeBob%20SquarePants"></videos>
+ </turboNick>

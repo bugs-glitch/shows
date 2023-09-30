@@ -1,0 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+ 
+ 
+ <promo>
+ 	<init image="/shows/data/spongebob/multimedia/spo/inits/bgh_global_game.swf" title="GLOBAL CHALLENGE" copy="Play the Big Green Help Global Challenege Multiplayer Game!" link="http://www.nick.com/games/bgh-games/nicktoons-global-multiplayer.jhtml"></init>
+ 	<init image="/shows/data/spongebob/multimedia/spo/inits/goty.swf" title="INVASION OF THE LAVA KING" copy="Play the Game of the Week of the Year!" link="/games/gotw/goty/"></init>
+ 	<init image="/shows/data/spongebob/multimedia/spo/inits/upd.swf" title="UPICK DAILY" copy="Check out the latest ''SpongeBob'' blogs, polls & quizzes on Upick Daily!" link="/upickdaily/search/?searchterm=SpongeBob"></init>
+ 	<init image="/shows/data/spongebob/multimedia/spo/inits/turbonick.swf" title="FULL EPISODES IN TURBONICK" copy="See full episodes of your favorite Sponge!" link="/turbonick"></init>
+ 	<init image="/shows/data/spongebob/multimedia/spo/inits/bgh.swf" title="DIRTY BUBBLE BUSTERS GAME" copy="Help SpongeBob and Patrick rid Bikini Bottom of unrecycled trash!" link="/games/platformer/sb_dirtybubble.jhtml"></init>
+ 	<init image="/shows/data/spongebob/multimedia/spo/inits/lava.swf" title="THE LAVA KING GAME" copy="Play SpongeBob SquarePants Invasion of the Lava King 2!" link="/games/role-playing-games/sb_lava2.jhtml"></init>
+  	<init image="/shows/data/spongebob/multimedia/spo/inits/sbGames.swf" title="SPONGEBOB GAMES" copy="Bikini Bottom is bubblin' over with games! Play now!" link="/games/nick_games/spongebob/index.jhtml"></init>
+ 	<init image="/shows/data/spongebob/multimedia/spo/inits/sluggers.swf" title="SLAMMIN' SLUGGERS GAME" copy="Swing for the fences with SpongeBob and Patrick!" link="/games/sports-games/sb_slammin.jhtml"></init>
+ 	<init image="/shows/data/spongebob/multimedia/spo/inits/spitwad.swf" title="SPITWAD SHOWDOWN GAME" copy="The spitwads are flying fast and furious! Play now!" link="/games/action-games/sb_spitwad.jhtml"></init>
+ </promo>
