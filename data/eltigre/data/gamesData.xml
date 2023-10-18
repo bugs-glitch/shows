@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<games>
+	<game shortTitle="Miracle City Meltdown" description="Miracle City Meltdown" icon="/multimedia/binits07/el_tigre_miracle_city_meltdown_game.swf" link="/games/nick_games/eltigre/et_miraclecity.jhtml"></game>
+	<game shortTitle="Ay Yi Yi of El Tigre" description="Ay Yi Yi of El Tigre" icon="/multimedia/binits07/el_tigre_ay_yi_yi_game.swf" link="/games/nick_games/eltigre/et_yiyi.jhtml"></game>
+	<game shortTitle="The Good, The Bad & El Tigre" description="The Good, The Bad & El Tigre" icon="/multimedia/binits07/el_tigre_good_bad_game.swf" link="/games/nick_games/eltigre/et_good.jhtml"></game>
+</games>

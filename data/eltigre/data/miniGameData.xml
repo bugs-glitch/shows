@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gamePieces>
+	<!-- <piece image="/shows/data/eltigre/multimedia/elt/gamePieces/bird.swf" placement="front" x="130" y="370" rotation="0" link="/shows/data/eltigre/multimedia/elt/miniGames/testGame.swf"></piece>
+	<piece image="/shows/data/eltigre/multimedia/elt/gamePieces/bird.swf" placement="front" x="1050" y="320" rotation="0" link="/shows/data/eltigre/multimedia/elt/miniGames/testGame.swf"></piece>
+	<piece image="/shows/data/eltigre/multimedia/elt/gamePieces/bird.swf" placement="/shows/data/eltigre/multimedia/elt/characters.swf" x="900" y="400" rotation="-10" link="/shows/data/eltigre/multimedia/elt/miniGames/testGame.swf"></piece>
+	<piece image="/shows/data/eltigre/multimedia/elt/gamePieces/bird.swf" placement="/shows/data/eltigre/multimedia/elt/downloads.swf" x="90" y="165" rotation="170" link="/shows/data/eltigre/multimedia/elt/miniGames/testGame.swf"></piece> -->
+	<piece image="/shows/data/eltigre/multimedia/elt/gamePieces/bird.swf" placement="front" x="80" y="370" rotation="0" link="/shows/data/eltigre/multimedia/elt/miniGames/difference/findDifference.swf"></piece>
+	<piece image="/shows/data/eltigre/multimedia/elt/gamePieces/bird.swf" placement="front" x="1050" y="330" rotation="0" link="/shows/data/eltigre/multimedia/elt/miniGames/matching/matchingGame.swf"></piece>
+	<piece image="/shows/data/eltigre/multimedia/elt/gamePieces/bird.swf" placement="/shows/data/eltigre/multimedia/elt/characters.swf" x="900" y="400" rotation="-10" link="/shows/data/eltigre/multimedia/elt/miniGames/escape/tigreEscape.swf"></piece>
+	<piece image="/shows/data/eltigre/multimedia/elt/gamePieces/bird.swf" placement="/shows/data/eltigre/multimedia/elt/downloads.swf" x="90" y="165" rotation="170" link="/shows/data/eltigre/multimedia/elt/miniGames/trivia/trivia.swf"></piece>
+</gamePieces>

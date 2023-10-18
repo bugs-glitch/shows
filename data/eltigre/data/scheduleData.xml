@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<times>
+	<episode day="Monday" time="7 PM/6c" description="some crazy show description"></episode>
+	<episode day="Tuesday" time="7 AM/6c" description="some crazy show description"></episode>
+	<episode day="Wednesday" time="3 PM/2c" description="some crazy show description"></episode>
+	<episode day="Thursday" time="8 PM/7c" description="some crazy show description"></episode>
+	<episode day="Saturday" time="10:30 AM/9:30c" description="some crazy show description"></episode>
+</times>
