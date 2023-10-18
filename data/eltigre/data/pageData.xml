@@ -1,0 +1,39 @@
+ <?xml version="1.0" encoding="UTF-8" ?> 
+ <world>
+ 	<!-- FOREGROUND -->
+ 	<house title="*" text="Tune in every Saturday @ 10:30 AM/9:30c!" image="/shows/data/eltigre/multimedia/elt/promo.swf" link="*" depth="foreground"></house>
+ 	<house title=" NEW GAME!" text="  Play Ay Yi Yi    of El Tigre!" image="/shows/data/eltigre/multimedia/elt/billboard.swf" link="/games/nick_games/eltigre/et_yiyi.jhtml" depth="foreground"></house>
+ 	<house title="Video" text="e-Cards" image="/shows/data/eltigre/multimedia/elt/hotdog.swf" link="/shows/data/eltigre/multimedia/elt/videoecard.swf" depth="foreground"></house>
+ 	<house title="*" text="*" image="/shows/data/eltigre/multimedia/elt/donkeyPromo.swf" link="*" depth="foreground"></house>
+ 	<house title="*" text="*" image="/shows/data/eltigre/multimedia/elt/foregroundBldg02.swf" link="*" depth="foreground"></house>
+ 	<house title="*" text="*" image="/shows/data/eltigre/multimedia/elt/granpapi.swf" link="*" depth="foreground"></house>
+ 	<!-- MIDGROUND -->
+ 	<house title="Leone Middle School" text="NickTropolis" image="/shows/data/eltigre/multimedia/elt/school.swf" link="/nicktropolis/game/index.jhtml?nav2=room.49066" depth="midground"></house>
+ 	<house title="*" text="*" image="/shows/data/eltigre/multimedia/elt/thug.swf" link="/turbonick/index.jhtml?mashupid=-1" depth="midground"></house>
+ 	<house title="*" text="*" image="/shows/data/eltigre/multimedia/elt/movieTheater.swf" link="*" depth="midground"></house>
+ 	<house title="Arcade" text="Games" image="/shows/data/eltigre/multimedia/elt/arcade.swf" link="/shows/data/eltigre/multimedia/elt/games.swf" depth="midground"></house>
+ 	<house title="*" text="*" image="/shows/data/eltigre/multimedia/elt/car1.swf" link="*" depth="midground"></house>
+ 	<house title="Frida's House" text="e-Collectibles" image="/shows/data/eltigre/multimedia/elt/fridasHouse.swf" link="/mynick/trading/" depth="midground"></house>
+ 	<house title="*" text="*" image="/shows/data/eltigre/multimedia/elt/car2.swf" link="*" depth="midground"></house>
+ 	<house title="Evil Store" text="Downloads" image="/shows/data/eltigre/multimedia/elt/evilStore.swf" link="/shows/data/eltigre/multimedia/elt/downloads.swf" depth="midground"></house>
+ 	<!--  BACKGROUND -->
+ 	<house title="Volcano" text="Show Desription" image="/shows/data/eltigre/multimedia/elt/volcano.swf" link="*" depth="background"></house>
+ 	<house title="Jail" text="Characters" image="/shows/data/eltigre/multimedia/elt/jail.swf" link="/shows/data/eltigre/multimedia/elt/characters.swf" depth="background"></house>
+ 	<house title="Rivera Building" text="Show Description" image="/shows/data/eltigre/multimedia/elt/riveraBldg.swf" link="/shows/data/eltigre/multimedia/elt/description.swf" depth="background"></house>
+ </world>
+ <nav>
+ 	<button title="Games" text="Play games!" image="/shows/common/multimedia/icons/games.swf" link="/shows/data/eltigre/multimedia/elt/games.swf"></button>
+ 	<button title="NickPages" text="NickPages!" image="/shows/common/multimedia/icons/nickpages.swf" link="/mynick/nickpage_central/"></button>
+ 	<button title="NickTropolis" text="Collect cards!" image="/shows/common/multimedia/icons/nicktropolis.swf" link="/nicktropolis/game/index.jhtml?nav2=room.49066"></button>
+ 	<button title="Video e-Cards" text="Collect cards!" image="/shows/common/multimedia/icons/videoecards.swf" link="/shows/data/eltigre/multimedia/elt/videoecard.swf"></button>
+ 	<button title="Mash-Up" text="Mash it up!" image="/shows/common/multimedia/icons/mashup.swf" link="/turbonick/index.jhtml?mashupid=-1"></button>
+ 	<button title="e-Collectibles" text="Collect cards!" image="/shows/common/multimedia/icons/eCollectibles.swf" link="/mynick/trading/"></button>
+ 	<button title="Boards" text="Post on the Boards!" image="/shows/common/multimedia/icons/boards.swf" link="/mynick/messageboards/viewboard.jhtml?bID=105683"></button>
+ 	<button title="TurboNick" text="Watch El Tigre in TN!" image="/shows/common/multimedia/icons/turboNick.swf" link="/turbonick/index.jhtml?extvideoid=48071"></button>
+ 	<button title="Downloads" text="Download El Tigre!" image="/shows/common/multimedia/icons/downloads.swf" link="/shows/data/eltigre/multimedia/elt/downloads.swf"></button>
+ 	<button title="Characters" text="Meet El Tigre!" image="/shows/common/multimedia/icons/characters.swf" link="/shows/data/eltigre/multimedia/elt/characters.swf"></button>
+ 	<button title="Show Description" text="Meet El Tigre!" image="/shows/common/multimedia/icons/description.swf" link="/shows/data/eltigre/multimedia/elt/description.swf"></button>
+ </nav>
+ <turboNick>
+ 	<videos link="/turbonick/index.jhtml?extvideoid=48071"></videos>
+ </turboNick>
