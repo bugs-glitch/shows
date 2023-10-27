@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+
+<config>
+	
+	<version>
+		<!-- "false" will enable high score viewing/submission. "true" will disable high score viewing/submission.  -->
+		<isInternational>false</isInternational>
+	</version>
+
+	<highScore>
+		
+		<!-- Debug mode. Force user to be logged in with the username of "DEBUG_USER". -->
+		<debug>false</debug>
+		
+		<userPath>http://www.nick.com/games/common/user_name/getUserInfo.jhtml</userPath>
+		<scorePath>http://www.nick.com/common/score/Scoreboard.jhtml</scorePath>
+		<gameID>fop_madness</gameID>
+		
+	</highScore>
+	
+	<gameSettings>
+	
+		<clipperpos>
+			<x>-80</x>
+			<y>90</y>
+		</clipperpos>
+		
+		<playerpos>
+			<x>150</x>
+			<y>310</y>
+		</playerpos>
+		
+		<!-- Position relative to the obstacles -->	
+		<pickuppos>
+			<jump>
+				<x>0</x>
+				<y>150</y>
+			</jump>
+			<grind>
+				<x>50</x>
+				<y>150</y>
+			</grind>
+			<swing>
+				<x>50</x>
+				<y>150</y>
+			</swing>
+			<punch>
+				<x>350</x>
+				<y>150</y>
+			</punch>
+		</pickuppos>
+		
+		<!-- Hit areas are 10 times <xscale> in pixels -->
+		<hitareas>
+			<player>
+				<xscale>1.5</xscale>
+			</player>
+			<obstacles>
+				<xscale>3</xscale>
+			</obstacles>
+		</hitareas>
+		
+		<!-- Position of button relative to the obstacles in pixels -->
+		<keyspacing>
+			<jump>120</jump>
+			<swing>50</swing>
+			<grind>50</grind>
+			<punch>130</punch>
+		</keyspacing>
+		
+		<!-- Position of jump before a swing/grind obstacle -->
+		<jumpspacing>
+			<swing>100</swing>
+			<grind>100</grind>
+		</jumpspacing>
+		
+		<!-- Maximum delay in seconds a new obstacle will spawn. -->
+		<!-- Level is time in seconds BG art scrolls -->
+		<!-- Delay in seconds between pickup spawns -->
+		<delay>
+			<jump>4</jump>
+			<swing>4</swing>
+			<grind>4</grind>
+			<punch>4</punch>
+			<level>30</level>
+			<pickup>75</pickup>
+		</delay>
+		
+		<!-- Amount obstacle delay degrades -->
+		<delaydegrade>
+			<jump>.2</jump>
+			<swing>.2</swing>
+			<grind>.2</grind>
+			<punch>.2</punch>
+		</delaydegrade>
+		
+		<!-- Minimum delay forced between obstacles -->
+		<mindelay>
+			<jump>1.4</jump>
+			<swing>2.5</swing>
+			<grind>2.5</grind>
+			<punch>1.5</punch>
+		</mindelay>
+		
+		<obstaclegroups>
+			<group difficulty="easy">
+				<obstacle>jump</obstacle>
+				<obstacle>jump</obstacle>
+				<obstacle>jump</obstacle>
+			</group>
+			<group difficulty="easy">
+				<obstacle>punch</obstacle>
+				<obstacle>grind</obstacle>
+			</group>
+			<group difficulty="easy">
+				<obstacle>punch</obstacle>
+				<obstacle>jump</obstacle>
+				<obstacle>punch</obstacle>
+			</group>
+			<group difficulty="easy">
+				<obstacle>punch</obstacle>
+				<obstacle>punch</obstacle>
+				<obstacle>punch</obstacle>
+			</group>
+			<group difficulty="medium">
+				<obstacle>jump</obstacle>
+				<obstacle>grind</obstacle>
+				<obstacle>jump</obstacle>
+			</group>
+			<group difficulty="medium">
+				<obstacle>grind</obstacle>
+				<obstacle>jump</obstacle>
+				<obstacle>punch</obstacle>
+			</group>
+			<group difficulty="medium">
+				<obstacle>grind</obstacle>
+				<obstacle>jump</obstacle>
+				<obstacle>grind</obstacle>
+			</group>
+			<group difficulty="hard">
+				<obstacle>grind</obstacle>
+				<obstacle>jump</obstacle>
+				<obstacle>swing</obstacle>
+			</group>
+			<group difficulty="hard">
+				<obstacle>grind</obstacle>
+				<obstacle>swing</obstacle>
+				<obstacle>grind</obstacle>
+			</group>
+			<group difficulty="hard">
+				<obstacle>grind</obstacle>
+				<obstacle>swing</obstacle>
+				<obstacle>punch</obstacle>
+			</group>
+		</obstaclegroups>
+		
+	</gameSettings>
+	
+	
+
+	<localization>
+		
+	</localization>
+	
+</config>
