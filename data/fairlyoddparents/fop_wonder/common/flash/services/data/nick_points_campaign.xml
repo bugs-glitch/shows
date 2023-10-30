@@ -1,0 +1,10 @@
+<service name="NickPointsCampaign">
+	<domain></domain>
+	<url>/xml/np/np.jhtml</url>
+	<source>com.nickonline.services.NickPointsCampaign</source>
+	<source_url>/common/flash/services/NickPointsCampaignModule.swf</source_url>
+	<properties>
+		<property name="campaign" value="games_test" />
+		<property name="enablingURL" value="/xml/tms.jhtml" />
+	</properties>
+</service>

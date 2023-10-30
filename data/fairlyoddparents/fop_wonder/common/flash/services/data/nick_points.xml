@@ -1,0 +1,11 @@
+<service name="NickPoints">
+	<domain></domain>
+	<url>/nicktropolis/game/data/update_nickpoints.jhtml</url>
+	<source>com.nickonline.services.NickPoints</source>
+	<source_url>/common/flash/services/NickPointsModule.swf</source_url>
+	<properties>
+		<property name="pointValue" value="300" />
+		<property name="requireLogin" value="true" />
+		<property name="enablingURL" value="/nicktropolis/game/data/scriptena.jhtml" />
+	</properties>
+</service>

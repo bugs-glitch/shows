@@ -1,0 +1,13 @@
+<service name="HighScores">		
+		<domain>http://hs.nick.com</domain>
+		<url></url>
+		<source>com.nickonline.services.HighScores</source>
+		<source_url>/common/flash/services/HighScoresModule.swf</source_url>
+		<properties>
+			<property name="resultType" value="JSON" />
+			<property name="limitEntries" value="true" />
+			<property name="loadScoresUrl" value="/scores/getLeaderboard" />
+			<property name="submitScoresUrl" value="/scores/submitScore" />
+			<property name="enablingURL" value="/xml/tms.jhtml" />
+		</properties>	
+</service>

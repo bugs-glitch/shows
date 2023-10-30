@@ -1,0 +1,8 @@
+<service name="Reporting">
+	<domain></domain>
+	<url></url>
+	<source>com.nickonline.services.Reporting</source>
+	<source_url>/common/flash/services/ReportingModule.swf</source_url>
+	<properties>
+	</properties>
+</service>

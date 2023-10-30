@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service name="Authentication">
+    <domain></domain>
+    <url></url>
+    <source>com.nickonline.services.Authentication</source>
+    <source_url>/common/flash/services/AuthenticationModule.swf</source_url>
+    <properties>
+        <property name="enableCookieCheck" value="false" />
+        <property name="registerUrl" value="/registration/index.jhtml" />
+        <property name="loginUrl" value="/common/login/check.jhtml" />
+        <property name="guestLoginUrl" value="/common/login/guest.jhtml" />
+        <property name="logoutUrl" value="/common/mynick/autologin/flash_out.jhtml" />
+        <property name="showLabelsInField" value="true" />
+        <property name="themeConfig" value="/common/flash/services/data/login.xml" />
+    </properties>
+</service>

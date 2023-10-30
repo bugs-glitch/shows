@@ -1,0 +1,14 @@
+<services_config>
+	<services>
+		<service_include file_path="/common/flash/services/data/authentication.xml" />
+		<service_include file_path="/common/flash/services/data/high_scores.xml" />
+		<service_include file_path="/common/flash/services/data/nick_points_campaign.xml" />
+		<service_include file_path="/common/flash/services/data/reporting.xml" />
+		<service_include file_path="/common/flash/services/data/nick_points.xml" />
+	</services>
+	<security />
+	<channels />
+	<clusters />
+	<logging />
+	<system />
+</services_config>
