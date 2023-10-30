@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	
+	<!-- Loaded screen -->
+	<string id="ui_loaded_complete"				fontName="SlappyInline"		fontSize="35"	html="false"><![CDATA[100]]></string>
+	<string id="ui_transition_loading"			fontName="SlappyInline"		fontSize="18"	html="false"><![CDATA[Loading...]]></string>
+	
+	<!-- Title screen -->
+	<string id="ui_title_button_play"			fontName="SlappyInline"		fontSize="25"	html="false"><![CDATA[Play]]></string>
+	<string id="ui_title_button_viewhs"			fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[View High Scores]]></string>
+	<string id="ui_title"						fontName="SlappyInline"		fontSize="55"	html="false"><![CDATA[Wishology Trilogy]]></string>
+	<string id="ui_subtitle"					fontName="SlappyInline"		fontSize="21"	html="false"><![CDATA[Chapter 1: The Chosen One!]]></string>
+	<string id="ui_title_watch"					fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[Watch Fairly OddParents on Nickelodeon!]]></string>
+
+	<!-- Story line screen -->
+	<string id="ui_storyline_title"				fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Chapter 1: The Chosen One!]]></string>
+	<string id="ui_storyline_par1"				fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Timmy, always chosen last for kickball or as a lab partner, finally gets to be "the Chosen One"!]]></string>
+	<string id="ui_storyline_par2"				fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[But with great titles comes great... Eliminators???]]></string>
+	<string id="ui_storyline_par3"				fontName="SlappyInline"		fontSize="25"	html="false"><![CDATA[Oh no! Timmy must now survive an onslaught of Eliminators!]]></string>
+	<string id="ui_storyline_button_next"		fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Next]]></string>
+
+	<!-- Costume screen -->
+	<string id="ui_costume_got"					fontName="SlappyInline"		fontSize="40"	html="false"><![CDATA[You got]]></string>
+	<string id="ui_costume_two"					fontName="SlappyInline"		fontSize="35"	html="false"><![CDATA[ 2]]></string>
+	<string id="ui_costume_button_continue"		fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Continue]]></string>
+	<string id="ui_costume_spacebar"			fontName="SlappyInline"		fontSize="18"	html="false"><![CDATA[spacebar]]></string>
+	<string id="ui_costume_or"					fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[or]]></string>
+	<string id="ui_costume_teo_title"			fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Teo Costume!]]></string>
+	<string id="ui_costume_teo_control1"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Kung Pow:]]></string>
+	<string id="ui_costume_teo_control2"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Shockwave:]]></string>
+	<string id="ui_costume_teo_control3"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Double jump:]]></string>
+	<string id="ui_costume_tredo_title"			fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Trodo Costume!]]></string>
+	<string id="ui_costume_tredo_control1"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Staff slash:]]></string>
+	<string id="ui_costume_tredo_control2"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Dash:]]></string>
+	<string id="ui_costume_tredo_control3"		fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Invisibility:]]></string>
+	<string id="ui_costume_totter_title"		fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Timmy Totter Costume!]]></string>
+	<string id="ui_costume_totter_control1"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Flamio (fire ball):]]></string>
+	<string id="ui_costume_totter_control2"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Aloha (unlock doors):]]></string>
+	<string id="ui_costume_totter_control3"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Blitzkrieg Bop (lightning ball):]]></string>
+	<string id="ui_costume_totter_control4"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Hold]]></string>
+	<string id="ui_costume_totter_control5"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Broom:]]></string>
+
+	<!-- HUD -->
+	<string id="ui_hud_button_menu"				fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Menu]]></string>
+	<string id="ui_hud_score"					fontName="SlappyInline"		fontSize="25"	html="false"><![CDATA[$value$]]></string>
+	<string id="ui_hud_lives"					fontName="SlappyInline"		fontSize="30"	html="false"><![CDATA[$value$]]></string>
+
+	<!-- ReadyGo popup -->
+	<string id="ui_readygo_popup_ready"			fontName="SlappyInline"		fontSize="40"	html="false"><![CDATA[Ready?]]></string>
+	<string id="ui_readygo_popup_go"			fontName="SlappyInline"		fontSize="40"	html="false"><![CDATA[Go!]]></string>
+	
+	<!-- EndLevel popup -->
+	<string id="ui_endlevel_popup_level"		fontName="SlappyInline"		fontSize="40"	html="false"><![CDATA[Level]]></string>
+	<string id="ui_endlevel_popup_complete"		fontName="SlappyInline"		fontSize="40"	html="false"><![CDATA[Complete]]></string>
+	
+	<!-- How to play popup -->
+	<string id="ui_howtoplay_title1"			fontName="SlappyInline"		fontSize="30"	html="false"><![CDATA[Timmy Turner!!!!!]]></string>
+	<string id="ui_howtoplay_subtitle1"			fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[You must stop these Eliminators at once!]]></string>
+	<string id="ui_howtoplay_control1a"			fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Walk:]]></string>
+	<string id="ui_howtoplay_control1b"			fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Jump:]]></string>
+	<string id="ui_howtoplay_control1c"			fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Climb Ladder:]]></string>
+	<string id="ui_howtoplay_title2"			fontName="SlappyInline"		fontSize="40"	html="false"><![CDATA[Oh yes,]]></string>
+	<string id="ui_howtoplay_subtitle2"			fontName="SlappyInline"		fontSize="25"	html="false"><![CDATA[I forgot!]]></string>
+	<string id="ui_howtoplay_control2"			fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Attack:]]></string>
+	<string id="ui_howtoplay_subtitle3"			fontName="SlappyInline"		fontSize="25"	html="false"><![CDATA[Don't forget:]]></string>
+	<string id="ui_howtoplay_control3"			fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Unlock doors:]]></string>
+	<string id="ui_howtoplay_subtitle4"			fontName="SlappyInline"		fontSize="22"	html="true"><![CDATA[Now it's time to use<br />all your<br />"Chosen One" powers!]]></string>
+	<string id="ui_howtoplay_control4"			fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Change costume:]]></string>
+	<string id="ui_howtoplay_controlD"			fontName="SlappyInline"		fontSize="30"	html="false"><![CDATA[D]]></string>
+	
+	<!-- Menu Pop-up -->
+	<string id="ui_popup_menu_vol_music_label"	fontName="SlappyInline"		fontSize="25"	html="false"><![CDATA[Music]]></string>
+	<string id="ui_popup_menu_vol_sounds_label"	fontName="SlappyInline"		fontSize="25"	html="false"><![CDATA[Sound]]></string>
+	<string id="ui_popup_menu_button_resume"	fontName="SlappyInline"		fontSize="25"	html="false"><![CDATA[Resume]]></string>
+	<string id="ui_popup_menu_button_quit"		fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Quit]]></string>
+
+	<!-- Quit Popup -->
+	<string id="ui_popup_quit_title"			fontName="SlappyInline"		fontSize="40"	html="false"><![CDATA[Quit]]></string>
+	<string id="ui_popup_quit_text"				fontName="SlappyInline"		fontSize="25"	html="false"><![CDATA[Are you sure?]]></string>
+	<string id="ui_popup_quit_button_yes"		fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Yes]]></string>
+	<string id="ui_popup_quit_button_no"		fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[No]]></string>
+	
+	<!-- Win screen -->
+	<string id="ui_win_title"					fontName="SlappyInline"		fontSize="40"	html="false"><![CDATA[You Win!]]></string>
+	<string id="ui_win_subtitle1"				fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[You finally got rid of the Lead Eliminator!]]></string>
+	<string id="ui_win_subtitle2"				fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[But a dark shadow looms in the skies, when is this going to be over???]]></string>
+	<string id="ui_win_tobecontinued"			fontName="SlappyInline"		fontSize="16"	html="false"><![CDATA[To be continued...]]></string>
+	<string id="ui_win_score"					fontName="SlappyInline"		fontSize="30"	html="false"><![CDATA[$value$]]></string>
+	<string id="ui_win_button_playagain"		fontName="SlappyInline"		fontSize="16"	html="false"><![CDATA[Play Again]]></string>
+	<string id="ui_win_button_hs_view"			fontName="SlappyInline"		fontSize="16"	html="false"><![CDATA[View High Scores]]></string>
+	<string id="ui_win_button_hs_submit"		fontName="SlappyInline"		fontSize="16"	html="false"><![CDATA[Submit Score]]></string>
+	
+	<!-- Lose screen -->
+	<string id="ui_lose_title"					fontName="SlappyInline"		fontSize="40"	html="false"><![CDATA[Game Over]]></string>
+	<string id="ui_lose_subtitle"				fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Oh no! Is it the end for the Chosen One?]]></string>
+	<string id="ui_player_score"				fontName="SlappyInline"		fontSize="22"	html="false"><![CDATA[Player's score]]></string>
+	<string id="ui_lose_score"					fontName="SlappyInline"		fontSize="30"	html="false"><![CDATA[$value$]]></string>
+	<string id="ui_lose_button_tryagain"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Try Again]]></string>
+	<string id="ui_lose_button_playagain"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Play Again]]></string>
+	<string id="ui_lose_button_hs_view"			fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[View High Scores]]></string>
+	<string id="ui_lose_button_hs_submit"		fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Submit Score]]></string>
+	
+	<!-- HighScores Screen -->
+	<string id="ui_hs_title"					fontName="SlappyInline"		fontSize="28"	html="false"><![CDATA[High Scores]]></string>
+	<string id="ui_hs_back"						fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Back]]></string>
+	<string id="ui_hs_button_playagain"			fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Play Again]]></string>
+	<string id="ui_hs_button_tryagain"			fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Try Again]]></string>
+	<string id="ui_hs_button_submit"			fontName="SlappyInline"		fontSize="20"	html="false"><![CDATA[Submit Score]]></string>
+	<string id="ui_hs_title_playerscore"		fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[Your score:]]></string>
+	<string id="ui_hs_playerscore"				fontName="SlappyInline"		fontSize="18"	html="false"><![CDATA[$value$]]></string>
+	<string id="ui_hs_board_header_rank"		fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[Rank]]></string>
+	<string id="ui_hs_board_header_username"	fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[Username]]></string>
+	<string id="ui_hs_board_header_score"		fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[Score]]></string>
+	<string id="ui_hs_board_rank"				fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[$value$]]></string>
+	<string id="ui_hs_board_name"				fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[$value$]]></string>
+	<string id="ui_hs_board_score"				fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[$value$]]></string>
+	<string id="ui_hs_board_info_wait"			fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[The High Scores list is updating!]]></string>
+	<string id="ui_hs_board_info_error"			fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[Oops! The High Scores list is not available right now!]]></string>
+	<string id="ui_hs_board_info_empty"			fontName="SlappyInline"		fontSize="15"	html="false"><![CDATA[No high score yet! What are you waiting for?]]></string>
+	
+</strings>
