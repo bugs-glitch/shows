@@ -4,8 +4,8 @@
 	<campaignID>games_test</campaignID>
 	
 	<!--Run the module locally when running on your machine, but swap the modulePath(s) when you deliver-->
-	<!--<modulePath>http://www.nick.com/common/flash/nickpoints/NickPoints_Module_build.swf</modulePath>-->
-	<!--<modulePath>http://www.nick-q.mtvi.com/common/flash/nickpoints/NickPoints_Module_build.swf</modulePath>-->
+	<!--<modulePath>http://bugs-glitch.github.io/flash/nickpoints/NickPoints_Module_build.swf</modulePath>-->
+	<!--<modulePath>http://bugs-glitch.github.io/common/flash/nickpoints/NickPoints_Module_build.swf</modulePath>-->
 	<modulePath>local_only_nick_files/NickPoints_Module_build.swf</modulePath>
 	
 	<events>
